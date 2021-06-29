@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.720ac621.chunk.css",
+    "main.js": "/static/js/main.0eaa7cdc.chunk.js",
+    "main.js.map": "/static/js/main.0eaa7cdc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1332ae32.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1332ae32.js.map",
+    "static/js/2.c3c64c46.chunk.js": "/static/js/2.c3c64c46.chunk.js",
+    "static/js/2.c3c64c46.chunk.js.map": "/static/js/2.c3c64c46.chunk.js.map",
+    "static/js/3.3cd898cf.chunk.js": "/static/js/3.3cd898cf.chunk.js",
+    "static/js/3.3cd898cf.chunk.js.map": "/static/js/3.3cd898cf.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.720ac621.chunk.css.map": "/static/css/main.720ac621.chunk.css.map",
+    "static/js/2.c3c64c46.chunk.js.LICENSE.txt": "/static/js/2.c3c64c46.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/static/media/icon-arrow.4b3d2d93.svg",
+    "static/media/hero-desktop.659bc9a7.jpg": "/static/media/hero-desktop.659bc9a7.jpg",
+    "static/media/hero-mobile.1afd055b.jpg": "/static/media/hero-mobile.1afd055b.jpg",
+    "static/media/icon-error.77009af7.svg": "/static/media/icon-error.77009af7.svg",
+    "static/media/logo.bfe35add.svg": "/static/media/logo.bfe35add.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1332ae32.js",
+    "static/js/2.c3c64c46.chunk.js",
+    "static/css/main.720ac621.chunk.css",
+    "static/js/main.0eaa7cdc.chunk.js"
+  ]
+}
