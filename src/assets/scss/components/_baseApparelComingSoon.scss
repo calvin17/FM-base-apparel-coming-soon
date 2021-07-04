@@ -137,7 +137,7 @@
   }
   .hero-banner {
     grid-area: banner;
-
+    object-fit: cover;
     max-height: 100vh;
     .banner-img {
       min-height: 100vh;

@@ -44,7 +44,9 @@ function BaseApparelComingSoon() {
         <form className="email">
           <input
             type="text"
+            title="Email Address"
             placeholder="Email Address"
+            aria-label="email address"
             className="email-input"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
@@ -52,7 +54,14 @@ function BaseApparelComingSoon() {
           <span className={`error-icon ${isEmailValid && "error"}`}>
             <img src={errorIcon} alt="error icon" />
           </span>
-          <input type="submit" className="email-submit" value="" onClick={submitEmail} />
+          <input
+            type="submit"
+            title="submit"
+            aria-label="submit"
+            className="email-submit"
+            value=""
+            onClick={submitEmail}
+          />
         </form>
         <div className={`email-error ${isEmailValid && "error"}`}>Please provide a valid email</div>
       </div>
